@@ -18,4 +18,4 @@
 
 [Справочные материалы по Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
 
-Конец инструкции
+Конец инструкции с продолжением
