@@ -10,6 +10,8 @@
 
 > git branch - посмотреть список веток в репозитории
 
+> git checkout <названеи ветки> -  переход к другой ветке
+
 ![Cat](cat.jpeg)
 
 [Справочные материалы по Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
