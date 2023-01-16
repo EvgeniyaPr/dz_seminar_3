@@ -17,5 +17,3 @@
 ![Cat](cat.jpeg)
 
 [Справочные материалы по Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
-
-Совсем другой текст
