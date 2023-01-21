@@ -14,9 +14,19 @@
 
 > git branch -d <название ветки> - удалить ветку
 
+> git branch -D <название ветки> - удалить ветку, даже если она не слита
+
+> git branch <название ветки> – создать новую ветку
+
+> git log --graph - вывод коммитов всех веток
+
+> git checkout -b <название ветки> - создает и сразу переходит в новую ветку
+
+> git merge --abort - удаляет последнее объединение 
+
+
 ![Cat](cat.jpeg)
 
-[Справочные материалы по Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+## [Справочные материалы по Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
 
-Конец инструкции с продолжением
-Конец инструкции и документа
+Продолжение следует. 
